@@ -1,21 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-This is an implementation of the extended Kalman filter equations 
-that are derived and explained here
-
-The class defined in this file is used in the driver code file: driverCode.py
-
-The webpage tutorials accompanying the developed code are given here:
-    
-Part 1:
-https://aleksandarhaber.com/extended-kalman-filter-tutorial-with-disciplined-python-codes/
-
-Part 2:
-https://aleksandarhaber.com/extended-kalman-filter-tutorial-with-example-and-disciplined-python-codes-part-ii-python-codes/
-
-Author: Aleksandar Haber 
-Last Revision: June, 2023
-"""
 
 import numpy as np 
 
